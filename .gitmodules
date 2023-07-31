@@ -1,3 +1,6 @@
 [submodule "Libraries/KiCad-RP-Pico"]
 	path = Libraries/KiCad-RP-Pico
 	url = https://github.com/ncarandini/KiCad-RP-Pico.git
+[submodule "Libraries/kiswitch"]
+	path = Libraries/kiswitch
+	url = https://github.com/kiswitch/kiswitch
